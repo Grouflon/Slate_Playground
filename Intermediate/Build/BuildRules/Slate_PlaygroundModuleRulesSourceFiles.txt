@@ -1,0 +1,3 @@
+C:\Users\Remuth\Documents\Unreal Projects\Slate_Playground\Source\Slate_Playground\Slate_Playground.Build.cs
+C:\Users\Remuth\Documents\Unreal Projects\Slate_Playground\Source\Slate_Playground.Target.cs
+C:\Users\Remuth\Documents\Unreal Projects\Slate_Playground\Source\Slate_PlaygroundEditor.Target.cs

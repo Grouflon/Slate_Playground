@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Slate_Playground-7607.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Remuth\Documents\Unreal Projects\Slate_Playground\Intermediate\Build\Win64\UE4Editor\Development\Slate_Playground\Slate_Playground.cpp.obj"
+"C:\Users\Remuth\Documents\Unreal Projects\Slate_Playground\Intermediate\Build\Win64\UE4Editor\Development\Slate_Playground\Slate_PlaygroundGameModeBase.cpp.obj"
+"C:\Users\Remuth\Documents\Unreal Projects\Slate_Playground\Intermediate\Build\Win64\UE4Editor\Development\Slate_Playground\SStandardSlateWidget.cpp.obj"
+"C:\Users\Remuth\Documents\Unreal Projects\Slate_Playground\Intermediate\Build\Win64\UE4Editor\Development\Slate_Playground\StandardHUD.cpp.obj"
+"C:\Users\Remuth\Documents\Unreal Projects\Slate_Playground\Intermediate\Build\Win64\UE4Editor\Development\Slate_Playground\Slate_Playground.generated.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate_Playground\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Remuth\Documents\Unreal Projects\Slate_Playground\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Slate_Playground-7607.lib"

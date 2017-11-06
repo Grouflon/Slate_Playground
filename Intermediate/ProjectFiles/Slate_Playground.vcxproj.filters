@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Slate_Playground.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{333E1B38-9C70-4A5C-8C69-5F7C77BD9FC7}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Slate_Playground.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Slate_PlaygroundEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{9E70BF5B-8D14-42A8-8C64-7E745D5AC434}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Slate_Playground">
+			<UniqueIdentifier>{31E6FF71-8AB5-41C4-9BB1-7670E215D333}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Slate_Playground\Slate_Playground.Build.cs">
+			<Filter>Source\Slate_Playground</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Slate_Playground\Slate_Playground.cpp">
+			<Filter>Source\Slate_Playground</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Slate_Playground\Slate_Playground.h">
+			<Filter>Source\Slate_Playground</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Slate_Playground\Slate_PlaygroundGameModeBase.cpp">
+			<Filter>Source\Slate_Playground</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Slate_Playground\Slate_PlaygroundGameModeBase.h">
+			<Filter>Source\Slate_Playground</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Slate_Playground\SStandardSlateWidget.cpp">
+			<Filter>Source\Slate_Playground</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Slate_Playground\SStandardSlateWidget.h">
+			<Filter>Source\Slate_Playground</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Slate_Playground\StandardHUD.cpp">
+			<Filter>Source\Slate_Playground</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Slate_Playground\StandardHUD.h">
+			<Filter>Source\Slate_Playground</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
